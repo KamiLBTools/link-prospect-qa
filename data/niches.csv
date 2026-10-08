@@ -1,0 +1,499 @@
+niche_1,niche_2,niche_3
+News,International,
+News,United States,
+News,United States,Alabama
+News,United States,Alaska
+News,United States,Arizona
+News,United States,Arkansas
+News,United States,California
+News,United States,Colorado
+News,United States,Connecticut
+News,United States,Delaware
+News,United States,District of Columbia
+News,United States,Florida
+News,United States,Georgia
+News,United States,Hawaii
+News,United States,Idaho
+News,United States,Illinois
+News,United States,Indiana
+News,United States,Iowa
+News,United States,Kansas
+News,United States,Kentucky
+News,United States,Louisiana
+News,United States,Maine
+News,United States,Maryland
+News,United States,Massachusetts
+News,United States,Michigan
+News,United States,Minnesota
+News,United States,Mississippi
+News,United States,Missouri
+News,United States,Montana
+News,United States,Nebraska
+News,United States,Nevada
+News,United States,New Hampshire
+News,United States,New Jersey
+News,United States,New Mexico
+News,United States,New York
+News,United States,North Carolina
+News,United States,North Dakota
+News,United States,Ohio
+News,United States,Oklahoma
+News,United States,Oregon
+News,United States,Pennsylvania
+News,United States,Rhode Island
+News,United States,South Carolina
+News,United States,South Dakota
+News,United States,Tennessee
+News,United States,Texas
+News,United States,Utah
+News,United States,Vermont
+News,United States,Virginia
+News,United States,Washington
+News,United States,West Virginia
+News,United States,Wisconsin
+News,United States,Wyoming
+News,United Kingdom,
+News,United Kingdom,England
+News,United Kingdom,Scotland
+News,United Kingdom,Wales
+News,United Kingdom,Northern Ireland
+News,Canada,
+News,Canada,Alberta
+News,Canada,British Columbia
+News,Canada,Manitoba
+News,Canada,New Brunswick
+News,Canada,Newfoundland and Labrador
+News,Canada,Nova Scotia
+News,Canada,Ontario
+News,Canada,Prince Edward Island
+News,Canada,Quebec
+News,Canada,Saskatchewan
+News,Canada,Northwest Territories
+News,Canada,Nunavut
+News,Canada,Yukon
+News,Australia,
+News,Australia,New South Wales
+News,Australia,Victoria
+News,Australia,Queensland
+News,Australia,Western Australia
+News,Australia,South Australia
+News,Australia,Tasmania
+News,Australia,Australian Capital Territory
+News,Australia,Northern Territory
+News,(any other country),
+Business,Entrepreneurship,
+Business,Entrepreneurship,Startups
+Business,Entrepreneurship,Small Business
+Business,Entrepreneurship,Side Hustles
+Business,Entrepreneurship,Franchising
+Business,Entrepreneurship,News
+Business,Management,
+Business,Management,Leadership
+Business,Management,HR & Recruiting
+Business,Management,Productivity
+Business,Management,Remote Work
+Business,Management,News
+Business,Operations,
+Business,Operations,Logistics & Supply Chain
+Business,Operations,Manufacturing
+Business,Operations,B2B Services
+Business,Operations,Procurement
+Business,Operations,News
+Business,Careers,
+Business,Careers,Job Search
+Business,Careers,Freelancing
+Business,Careers,Professional Development
+Business,Careers,News
+Business,Ecommerce,
+Business,Ecommerce,Dropshipping
+Business,Ecommerce,Amazon Selling
+Business,Ecommerce,Online Stores
+Business,Ecommerce,News
+Finance,Personal Finance,
+Finance,Personal Finance,Budgeting
+Finance,Personal Finance,Saving
+Finance,Personal Finance,Frugal Living
+Finance,Personal Finance,Credit Scores
+Finance,Personal Finance,News
+Finance,Investing,
+Finance,Investing,Stocks
+Finance,Investing,Funds & ETFs
+Finance,Investing,Forex
+Finance,Investing,Commodities
+Finance,Investing,Retirement
+Finance,Investing,News
+Finance,Banking,
+Finance,Banking,Credit Cards
+Finance,Banking,Loans
+Finance,Banking,Mortgages
+Finance,Banking,Digital Banking
+Finance,Banking,News
+Finance,Insurance,
+Finance,Insurance,Health Insurance
+Finance,Insurance,Car Insurance
+Finance,Insurance,Home Insurance
+Finance,Insurance,Life Insurance
+Finance,Insurance,News
+Finance,Accounting & Tax,
+Finance,Accounting & Tax,Tax
+Finance,Accounting & Tax,Bookkeeping
+Finance,Accounting & Tax,Payroll
+Finance,Accounting & Tax,News
+Crypto,Trading,
+Crypto,Trading,Exchanges
+Crypto,Trading,Signals
+Crypto,Trading,Technical Analysis
+Crypto,Trading,News
+Crypto,Blockchain,
+Crypto,Blockchain,DeFi
+Crypto,Blockchain,NFTs
+Crypto,Blockchain,Web3 Development
+Crypto,Blockchain,News
+Crypto,Coins,
+Crypto,Coins,Bitcoin
+Crypto,Coins,Ethereum
+Crypto,Coins,Altcoins
+Crypto,Coins,Memecoins
+Crypto,Coins,News
+Crypto,Mining,
+Crypto,Mining,Bitcoin Mining
+Crypto,Mining,Staking
+Crypto,Mining,News
+Tech,Software,
+Tech,Software,SaaS
+Tech,Software,Apps
+Tech,Software,Cybersecurity
+Tech,Software,Programming
+Tech,Software,News
+Tech,Hardware,
+Tech,Hardware,Smartphones
+Tech,Hardware,Computers
+Tech,Hardware,Gadgets
+Tech,Hardware,Smart Home
+Tech,Hardware,News
+Tech,AI,
+Tech,AI,AI Tools
+Tech,AI,Machine Learning
+Tech,AI,News
+Tech,Internet,
+Tech,Internet,Web Hosting
+Tech,Internet,Social Media
+Tech,Internet,VPN & Privacy
+Tech,Internet,News
+Tech,Telecoms,
+Tech,Telecoms,Mobile Networks
+Tech,Telecoms,Broadband
+Tech,Telecoms,News
+Marketing,Digital Marketing,
+Marketing,Digital Marketing,SEO
+Marketing,Digital Marketing,Content Marketing
+Marketing,Digital Marketing,Social Media Marketing
+Marketing,Digital Marketing,Email Marketing
+Marketing,Digital Marketing,PPC
+Marketing,Digital Marketing,News
+Marketing,Advertising,
+Marketing,Advertising,Ad Tech
+Marketing,Advertising,Branding
+Marketing,Advertising,Affiliate Marketing
+Marketing,Advertising,News
+Marketing,Sales,
+Marketing,Sales,CRM
+Marketing,Sales,Lead Generation
+Marketing,Sales,News
+Health,Medical,
+Health,Medical,Conditions & Diseases
+Health,Medical,Pharmacy
+Health,Medical,Dental
+Health,Medical,Mental Health
+Health,Medical,Women's Health
+Health,Medical,Men's Health
+Health,Medical,News
+Health,Fitness,
+Health,Fitness,Gym & Strength
+Health,Fitness,Running
+Health,Fitness,Yoga
+Health,Fitness,Weight Loss
+Health,Fitness,News
+Health,Nutrition,
+Health,Nutrition,Diets
+Health,Nutrition,Supplements
+Health,Nutrition,News
+Health,Wellness,
+Health,Wellness,Sleep
+Health,Wellness,Alternative Medicine
+Health,Wellness,CBD
+Health,Wellness,News
+Health,Senior Care,
+Health,Senior Care,Elder Care
+Health,Senior Care,Home Care
+Health,Senior Care,News
+Home,Home Improvement,
+Home,Home Improvement,DIY
+Home,Home Improvement,Renovation
+Home,Home Improvement,Roofing
+Home,Home Improvement,Plumbing
+Home,Home Improvement,Electrical
+Home,Home Improvement,Flooring
+Home,Home Improvement,News
+Home,Interior Design,
+Home,Interior Design,Furniture
+Home,Interior Design,Decor
+Home,Interior Design,Kitchen
+Home,Interior Design,Bathroom
+Home,Interior Design,News
+Home,Garden,
+Home,Garden,Gardening
+Home,Garden,Landscaping
+Home,Garden,Outdoor Living
+Home,Garden,News
+Home,Household,
+Home,Household,Cleaning
+Home,Household,Appliances
+Home,Household,Pest Control
+Home,Household,Moving
+Home,Household,News
+Home,Energy,
+Home,Energy,Solar
+Home,Energy,Heating & Cooling
+Home,Energy,News
+Lifestyle,Fashion,
+Lifestyle,Fashion,Women's Fashion
+Lifestyle,Fashion,Men's Fashion
+Lifestyle,Fashion,Jewellery & Watches
+Lifestyle,Fashion,Streetwear
+Lifestyle,Fashion,News
+Lifestyle,Beauty,
+Lifestyle,Beauty,Skincare
+Lifestyle,Beauty,Makeup
+Lifestyle,Beauty,Hair
+Lifestyle,Beauty,Fragrance
+Lifestyle,Beauty,News
+Lifestyle,Relationships,
+Lifestyle,Relationships,Dating
+Lifestyle,Relationships,Weddings
+Lifestyle,Relationships,Marriage
+Lifestyle,Relationships,News
+Lifestyle,Luxury,
+Lifestyle,Luxury,Luxury Goods
+Lifestyle,Luxury,Yachts & Private Jets
+Lifestyle,Luxury,News
+Lifestyle,Hobbies,
+Lifestyle,Hobbies,Photography
+Lifestyle,Hobbies,Crafts
+Lifestyle,Hobbies,Outdoor & Camping
+Lifestyle,Hobbies,Collecting
+Lifestyle,Hobbies,News
+Lifestyle,Spirituality,
+Lifestyle,Spirituality,Astrology
+Lifestyle,Spirituality,Religion
+Lifestyle,Spirituality,Meditation
+Lifestyle,Spirituality,News
+Food & Drink,Recipes,
+Food & Drink,Recipes,Baking
+Food & Drink,Recipes,Vegan & Vegetarian
+Food & Drink,Recipes,Healthy Eating
+Food & Drink,Recipes,News
+Food & Drink,Restaurants,
+Food & Drink,Restaurants,Restaurant Reviews
+Food & Drink,Restaurants,Street Food
+Food & Drink,Restaurants,News
+Food & Drink,Drinks,
+Food & Drink,Drinks,Wine
+Food & Drink,Drinks,Beer
+Food & Drink,Drinks,Spirits & Cocktails
+Food & Drink,Drinks,Coffee & Tea
+Food & Drink,Drinks,News
+Travel,Destinations,
+Travel,Destinations,City Guides
+Travel,Destinations,Beach
+Travel,Destinations,Adventure Travel
+Travel,Destinations,News
+Travel,Travel Planning,
+Travel,Travel Planning,Flights
+Travel,Travel Planning,Hotels
+Travel,Travel Planning,Travel Tips
+Travel,Travel Planning,Budget Travel
+Travel,Travel Planning,News
+Travel,Travel Types,
+Travel,Travel Types,Luxury Travel
+Travel,Travel Types,Family Travel
+Travel,Travel Types,Cruises
+Travel,Travel Types,Digital Nomad
+Travel,Travel Types,News
+Parenting,Babies,
+Parenting,Babies,Pregnancy
+Parenting,Babies,Baby Products
+Parenting,Babies,News
+Parenting,Kids,
+Parenting,Kids,Toddlers
+Parenting,Kids,Kids Activities
+Parenting,Kids,Teens
+Parenting,Kids,News
+Parenting,Family Life,
+Parenting,Family Life,Family Finance
+Parenting,Family Life,Homeschooling
+Parenting,Family Life,News
+Education,Schools,
+Education,Schools,K-12
+Education,Schools,Higher Education
+Education,Schools,Study Abroad
+Education,Schools,News
+Education,Online Learning,
+Education,Online Learning,Courses
+Education,Online Learning,Language Learning
+Education,Online Learning,Test Prep
+Education,Online Learning,News
+Education,Academic,
+Education,Academic,Essay Writing
+Education,Academic,Research
+Education,Academic,News
+Automotive,Cars,
+Automotive,Cars,Car Reviews
+Automotive,Cars,Electric Vehicles
+Automotive,Cars,Classic Cars
+Automotive,Cars,Car Buying
+Automotive,Cars,News
+Automotive,Motorcycles,
+Automotive,Motorcycles,Motorcycle Reviews
+Automotive,Motorcycles,Motorcycle Gear
+Automotive,Motorcycles,News
+Automotive,Maintenance,
+Automotive,Maintenance,Car Repair
+Automotive,Maintenance,Car Parts
+Automotive,Maintenance,Tyres
+Automotive,Maintenance,News
+Automotive,Transport,
+Automotive,Transport,Trucking
+Automotive,Transport,Car Rental
+Automotive,Transport,News
+Real Estate,Property,
+Real Estate,Property,Buying
+Real Estate,Property,Selling
+Real Estate,Property,Renting
+Real Estate,Property,News
+Real Estate,Investment,
+Real Estate,Investment,Buy-to-Let
+Real Estate,Investment,Commercial Property
+Real Estate,Investment,REITs
+Real Estate,Investment,News
+Real Estate,Construction,
+Real Estate,Construction,Architecture
+Real Estate,Construction,Building
+Real Estate,Construction,News
+Sports,Football,
+Sports,Football,Premier League
+Sports,Football,Fantasy Football
+Sports,Football,Transfer News
+Sports,Football,News
+Sports,Martial Arts,
+Sports,Martial Arts,MMA
+Sports,Martial Arts,Boxing
+Sports,Martial Arts,Karate
+Sports,Martial Arts,BJJ
+Sports,Martial Arts,Wrestling
+Sports,Martial Arts,News
+Sports,American Sports,
+Sports,American Sports,NFL
+Sports,American Sports,NBA
+Sports,American Sports,MLB
+Sports,American Sports,NHL
+Sports,American Sports,News
+Sports,Racket Sports,
+Sports,Racket Sports,Tennis
+Sports,Racket Sports,Padel
+Sports,Racket Sports,Badminton
+Sports,Racket Sports,News
+Sports,Motorsport,
+Sports,Motorsport,Formula 1
+Sports,Motorsport,MotoGP
+Sports,Motorsport,NASCAR
+Sports,Motorsport,News
+Sports,Other Sports,
+Sports,Other Sports,Golf
+Sports,Other Sports,Cricket
+Sports,Other Sports,Rugby
+Sports,Other Sports,Cycling
+Sports,Other Sports,Running
+Sports,Other Sports,Fishing & Hunting
+Sports,Other Sports,News
+Gaming,Video Games,
+Gaming,Video Games,PC Gaming
+Gaming,Video Games,Console Gaming
+Gaming,Video Games,Mobile Gaming
+Gaming,Video Games,Game Reviews
+Gaming,Video Games,News
+Gaming,Esports,
+Gaming,Esports,Competitive Gaming
+Gaming,Esports,Streaming
+Gaming,Esports,News
+Gaming,Tabletop,
+Gaming,Tabletop,Board Games
+Gaming,Tabletop,Card Games
+Gaming,Tabletop,News
+Gambling,Casino,
+Gambling,Casino,Online Casino
+Gambling,Casino,Slots
+Gambling,Casino,Casino Reviews
+Gambling,Casino,News
+Gambling,Sports Betting,
+Gambling,Sports Betting,Betting Tips
+Gambling,Sports Betting,Bookmaker Reviews
+Gambling,Sports Betting,News
+Gambling,Poker,
+Gambling,Poker,Online Poker
+Gambling,Poker,Poker Strategy
+Gambling,Poker,News
+Gambling,Lottery,
+Gambling,Lottery,Lottery Results
+Gambling,Lottery,Bingo
+Gambling,Lottery,News
+Entertainment,Movies & TV,
+Entertainment,Movies & TV,Movie Reviews
+Entertainment,Movies & TV,TV Shows
+Entertainment,Movies & TV,Streaming Services
+Entertainment,Movies & TV,News
+Entertainment,Music,
+Entertainment,Music,Music News
+Entertainment,Music,Instruments
+Entertainment,Music,Festivals
+Entertainment,Music,News
+Entertainment,Celebrities,
+Entertainment,Celebrities,Celebrity Gossip
+Entertainment,Celebrities,Influencers
+Entertainment,Celebrities,News
+Entertainment,Books,
+Entertainment,Books,Book Reviews
+Entertainment,Books,Writing
+Entertainment,Books,News
+Entertainment,Arts & Culture,
+Entertainment,Arts & Culture,Art
+Entertainment,Arts & Culture,Theatre
+Entertainment,Arts & Culture,Photography
+Entertainment,Arts & Culture,News
+Pets,Dogs,
+Pets,Dogs,Dog Training
+Pets,Dogs,Dog Breeds
+Pets,Dogs,Dog Food
+Pets,Dogs,News
+Pets,Cats,
+Pets,Cats,Cat Care
+Pets,Cats,Cat Breeds
+Pets,Cats,News
+Pets,Other Pets,
+Pets,Other Pets,Fish & Aquariums
+Pets,Other Pets,Birds
+Pets,Other Pets,Horses
+Pets,Other Pets,Reptiles
+Pets,Other Pets,News
+Legal,Law Practice,
+Legal,Law Practice,Personal Injury
+Legal,Law Practice,Family Law
+Legal,Law Practice,Criminal Law
+Legal,Law Practice,Immigration
+Legal,Law Practice,Employment Law
+Legal,Law Practice,News
+Legal,Business Law,
+Legal,Business Law,Contracts
+Legal,Business Law,Intellectual Property
+Legal,Business Law,Compliance
+Legal,Business Law,News

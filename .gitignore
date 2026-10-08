@@ -1,0 +1,28 @@
+node_modules/
+.next/
+out/
+dist/
+*.tsbuildinfo
+
+.env
+.env.local
+.env.*.local
+
+.DS_Store
+*.log
+
+# Written by `npm run eval -- --run`; contains per-site verdicts, not source.
+eval/last-run.csv
+
+# Code only (2026-10-08). Run output, caches, reviewer verdicts and client
+# spreadsheets stay on the machine: qa/ and eval/ are working folders, kept
+# out except for the code inside them and the labelled test set the eval reads.
+/qa/*
+!/qa/human_qa_import.py
+!/qa/overnight.sh
+/eval/*
+!/eval/qa-training.csv
+*.xlsx
+/selection-*.csv
+/.tmp-*.ts
+/scratch-*.ts
