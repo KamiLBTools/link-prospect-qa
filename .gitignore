@@ -14,15 +14,18 @@ dist/
 # Written by `npm run eval -- --run`; contains per-site verdicts, not source.
 eval/last-run.csv
 
-# Code only (2026-10-08). Run output, caches, reviewer verdicts and client
-# spreadsheets stay on the machine: qa/ and eval/ are working folders, kept
-# out except for the code inside them and the labelled test set the eval reads.
+# Code and the sheets (2026-10-08). Run output, caches and reviewer verdicts
+# stay on the machine: qa/ and eval/ are working folders, kept out except for
+# the code inside them, the labelled test set the eval reads, and the
+# spreadsheets the work was done from.
 /qa/*
 !/qa/human_qa_import.py
 !/qa/overnight.sh
 /eval/*
 !/eval/qa-training.csv
-*.xlsx
-/selection-*.csv
+!/eval/hennessey.xlsx
+!/eval/pepo/
+/eval/pepo/*
+!/eval/pepo/PEPO-QA.xlsx
 /.tmp-*.ts
 /scratch-*.ts
